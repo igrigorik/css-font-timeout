@@ -11,7 +11,7 @@ Chrome 35+         | 3 seconds    | yes       | yes
 Firefox            | 3 seconds    | yes       | yes
 Internet Explorer  | **0 seconds**| yes       | yes
 Safari             | N/A          | N/A       | N/A
-Opera              | *TODO*       | *TODO*    | *TODO*
+Opera 22+          | 3 seconds    | yes       | yes
 
 
 For instance Chrome and Firefox have a 3 seconds **timeout** after which the text is shown with the **fallback** font. Eventually, a **swap** occurs: the text is re-rendered with the intended font as it becomes available.
